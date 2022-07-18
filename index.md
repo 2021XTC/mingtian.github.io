@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to mingtian.github.io
 
-You can use the [editor on GitHub](https://github.com/2021XTC/mingtian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用这个[editor on GitHub](https://github.com/2021XTC/mingtian.github.io/edit/gh-pages/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
